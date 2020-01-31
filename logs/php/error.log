@@ -1,0 +1,4 @@
+[31-Jan-2020 07:42:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bateaux_mod() in /Users/tnosy_sm/Local Sites/jlac/app/public/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /Users/tnosy_sm/Local Sites/jlac/app/public/index.php on line 11
